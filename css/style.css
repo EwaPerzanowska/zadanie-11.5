@@ -1,0 +1,17 @@
+body {
+	margin: 0 auto;
+	text-align: center;
+	color: black;
+}
+
+header h1 {
+	font-size: 20px;
+	margin: 20px;
+}
+
+
+.btn.btn-primary.btn-block {
+	max-width: 20%;
+	margin-left: 40%;
+	margin-top: 40px;
+}
